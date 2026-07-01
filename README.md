@@ -70,7 +70,7 @@ Then open `index.html` in your browser.
 
 ## 📸 Preview
 
-(Add screenshots or demo link here)
+![Preview](./preview/Screenshot 2026-07-01 140822.png)
 
 ## 👨‍💻 Author
 
