@@ -70,7 +70,9 @@ Then open `index.html` in your browser.
 
 ## 📸 Preview
 
-![Preview](./preview/Screenshot 2026-07-01 140822.png)
+![prview](./preview/p1.png)
+![prview](./preview/p2.png)
+![prview](./preview/p3.png)
 
 ## 👨‍💻 Author
 
